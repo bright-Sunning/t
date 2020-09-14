@@ -8,3 +8,5 @@ git config --global user.name "bright"
 ssh方式建立连接
 git remove add origin git@github.com:bright-Sunning/bright.git
 git push -u origin master
+
+111122321312
