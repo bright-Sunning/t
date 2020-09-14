@@ -1,12 +1,7 @@
 git clone https://github.com/bright-Sunning/t.git      //克隆
-git.exe pull --progress -v --no-rebase "origin"                   //更新
-git config --global user.email "994980296@qq.com"
-git config --global user.name "bright"
 
+生成ssh密钥
+ssh-keygen -t rsa
 
-
-ssh方式建立连接
-git remove add origin git@github.com:bright-Sunning/bright.git
-git push -u origin master
-
-111122321312
+查看是否已经生成密钥
+ls ~/.ssh
