@@ -1,7 +1,0 @@
-git clone https://github.com/bright-Sunning/t.git      //克隆
-
-生成ssh密钥
-ssh-keygen -t rsa
-
-查看是否已经生成密钥
-ls ~/.ssh
